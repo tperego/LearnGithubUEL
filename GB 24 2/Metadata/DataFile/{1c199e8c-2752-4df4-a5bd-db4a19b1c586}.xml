@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{1c199e8c-2752-4df4-a5bd-db4a19b1c586}">
+		<property name="assetPath">
+			<value>SFX/SFX_SpikedGermHit01.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3aad6bb3-8694-4e82-9465-d03be0e8cb0b}</destination>
+		</relationship>
+	</object>
+</objects>

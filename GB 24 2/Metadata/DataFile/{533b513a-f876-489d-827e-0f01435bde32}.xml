@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{533b513a-f876-489d-827e-0f01435bde32}">
+		<property name="assetPath">
+			<value>SFX/SFX_GermIdle.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3aad6bb3-8694-4e82-9465-d03be0e8cb0b}</destination>
+		</relationship>
+	</object>
+</objects>

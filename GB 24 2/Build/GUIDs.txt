@@ -1,0 +1,6 @@
+{e53d9dc5-95e0-45bd-80c1-5fe3420a981e} bank:/Master
+{7d20bd11-e49b-09ff-0688-d51db3f99e86} bank:/Master.strings
+{13eccd3e-fc84-41d4-b598-8d09fd96fadc} bank:/Rooms
+{e349200f-eda1-4bd2-b1c7-9710133bb678} bus:/
+{2f27e2f7-28c8-4eee-bf24-d699b3ea0995} bus:/Reverb
+{82dcc54c-8455-4330-9248-06d85bf9bd91} event:/SFX_Brain

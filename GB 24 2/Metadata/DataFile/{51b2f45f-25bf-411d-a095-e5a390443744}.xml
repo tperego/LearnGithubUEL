@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{51b2f45f-25bf-411d-a095-e5a390443744}">
+		<property name="assetPath">
+			<value>SFX/SFX_RedBloodcellHit01.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3aad6bb3-8694-4e82-9465-d03be0e8cb0b}</destination>
+		</relationship>
+	</object>
+</objects>

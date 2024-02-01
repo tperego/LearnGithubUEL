@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{f07298e5-157f-4257-bac2-be22e3f574a0}">
+		<property name="assetPath">
+			<value>SFX/SFX_EnemyHit03.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3aad6bb3-8694-4e82-9465-d03be0e8cb0b}</destination>
+		</relationship>
+	</object>
+</objects>

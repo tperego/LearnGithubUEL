@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{91eea7b4-7fc0-43eb-87b3-d038613a9469}">
+		<property name="assetPath">
+			<value>SFX/SFX_GrenadeExplode.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.4810430839002269</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3aad6bb3-8694-4e82-9465-d03be0e8cb0b}</destination>
+		</relationship>
+	</object>
+</objects>

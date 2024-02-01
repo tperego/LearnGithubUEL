@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{7dd44b31-796b-4a9d-aa94-a5afab24c6bc}">
+		<property name="name">
+			<value>MoodZone</value>
+		</property>
+		<relationship name="folder">
+			<destination>{acadeca5-828e-4016-9350-93108069c70c}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fadd7a13-0972-4899-b64e-1caf79bcc0bd}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fadd7a13-0972-4899-b64e-1caf79bcc0bd}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

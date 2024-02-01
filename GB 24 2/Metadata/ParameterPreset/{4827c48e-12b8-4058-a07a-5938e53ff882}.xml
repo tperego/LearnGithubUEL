@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{4827c48e-12b8-4058-a07a-5938e53ff882}">
+		<property name="note" />
+		<property name="name">
+			<value>MusicTransitionParameter</value>
+		</property>
+		<relationship name="folder">
+			<destination>{acadeca5-828e-4016-9350-93108069c70c}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4a7bb7af-4607-4ebe-82fe-54931272c595}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4a7bb7af-4607-4ebe-82fe-54931272c595}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.57999998331069946</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>0.62000000476837158</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
